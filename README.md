@@ -1,5 +1,5 @@
-<H3>Enter Name: Bairav Skandan Loha</H3>
-<H3>Enter Register No: 212221230010</H3>
+<H3>Enter Name: VETRIVEL S</H3>
+<H3>Enter Register No: 212221240060</H3>
 <H3>Experiment 2</H3>
 <H3>Date:25.02.2024 </H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
